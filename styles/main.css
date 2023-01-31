@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    font-family: 'Quicksand';
+    background-color: #0d285a;
+    color: white !important; 
+}
+
+button {
+    background-color: #083a69 !important; 
+    border-color: white !important;
+    border-width: 5px;
+    border-style: solid;
+    color: white !important;
+    padding: 20px 20px !important;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover {
+    border-color: rgb(192, 176, 35) !important;
+}
+
+hr {
+    border-color: rgb(194, 194, 106) !important;
+}
+
+a {
+    text-decoration: none;
+    color: blue !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: rgb(236, 151, 39) !important;
+    text-decoration: none;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+img {
+    border-color: rgb(217,214,114);
+    border-width: 5px;
+    border-style: solid;
+}
+
+.e1tzin5v0 {
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o3 {
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o4 {
+    background-color: #083a69 !important;
+}
+
+.exg6vvm0 {
+    background-color: #083a69 !important;
+}
+
+.css-184tjsw {
+    background-color: rgba(71, 71, 45, 0) !important;
+}
+
+.css-1dhfpht {
+    background-color: rgba(71, 71, 45, 0) !important;
+}
+
+p code {
+    background-color: #0d285a;
+}
+
+.e1fqkh3o11 label {
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o11 label div p{
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o11 h2 {
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o11 div div span {
+    background-color: #083a69 !important;
+}
+
+.e1fqkh3o11 div div small {
+    background-color: #083a69 !important;
+}
+
+table {
+    background-color: white !important;
+    color: orange !important;
+}
